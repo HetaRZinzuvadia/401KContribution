@@ -1,0 +1,20 @@
+.bar {
+  display: none;
+}
+
+@media screen and (min-width: 700px) {
+  .bar {
+    display: inline-block;
+    height: 500px;
+    width: 790px;
+  }
+}
+
+.table {
+  display: none;
+}
+@media screen and (min-width: 800px) {
+  .table {
+    display: inline-block;
+  }
+}

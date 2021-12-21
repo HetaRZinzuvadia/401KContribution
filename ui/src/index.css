@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(89deg, #ede4b6 0%, #72d4f9 100%);
+}
+
+button {
+  cursor: pointer;
+}
